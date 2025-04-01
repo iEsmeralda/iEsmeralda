@@ -9,16 +9,16 @@ Científica de Datos en formación | ESCOM - IPN
 ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi)
 
 ## 📊 GitHub Stats:
-![Esme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=esme-lopezs&show_icons=true&theme=shadow_green)
+![Esme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=esme-lopezs&show_icons=true&theme=material-palenight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esme-lopezs&layout=compact&theme=shadow_green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esme-lopezs&layout=compact&theme=material-palenight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=esme-lopezs&theme=shadow_green)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=esme-lopezs&theme=material-palenight)](https://git.io/streak-stats)
 ## 📊 GitHub Stats
-![Esme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=esme-lopezs&show_icons=true&theme=shadow_green)
+![Esme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=esme-lopezs&show_icons=true&theme=material-palenight)
 ## 📈 Lenguajes más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esme-lopezs&layout=compact&theme=shadow_green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esme-lopezs&layout=compact&theme=material-palenight)
 ## ⏳ Streak 
-[![GitHub Streak](https://streak-stats.demolab.com?user=esme-lopezs&theme=shadow_green)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=esme-lopezs&theme=material-palenight)](https://git.io/streak-stats)
 
 
