@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hola 👋, soy Esmeralda López
+Científica de Datos en formación | ESCOM - IPN
 
-<!--
-**esme-lopezs/esme-lopezs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)
+![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi)
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats:
+![Esme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=esme-lopezs&show_icons=true&theme=shadow_green)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esme-lopezs&layout=compact&theme=shadow_green)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=esme-lopezs&theme=shadow_green)](https://git.io/streak-stats)
+## 📊 GitHub Stats
+![Esme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=esme-lopezs&show_icons=true&theme=shadow_green)
+## 📈 Lenguajes más usados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esme-lopezs&layout=compact&theme=shadow_green)
+## ⏳ Streak 
+[![GitHub Streak](https://streak-stats.demolab.com?user=esme-lopezs&theme=shadow_green)](https://git.io/streak-stats)
+
+
