@@ -32,6 +32,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esme-lopezs&layout=compact&theme=material-palenight)
 ## ıllı GitHub Stats
 ![Esme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=esme-lopezs&show_icons=true&theme=material-palenight)
+![Thanks](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=7355AD&vCenter=true&multiline=true&repeat=true&width=435&lines=Thanks+for+visiting!+✨;Happy+coding+!+👩‍💻)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iesmeralda&label=Profile%20views&color=7355ad&style=flat" alt="iEsmeralda" /> </p>
 
