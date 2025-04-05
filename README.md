@@ -1,5 +1,4 @@
-
-![Hello](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=866ca6&vCenter=true&multiline=true&repeat=true&width=435&lines=Hello+Everyone!)
+![Hello](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=999999&color=866ca6&vCenter=true&multiline=true&repeat=false&width=435&lines=Hello+Everyone!+Soy+Esme)
 ## ★ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
