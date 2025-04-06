@@ -27,7 +27,7 @@
 
 
 ## ✴︎ Streak 
-[![GitHub Streak](https://streak-stats.demolab.com?user=esme-lopezs&theme=material-palenight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=iEsmeralda&theme=material-palenight)](https://git.io/streak-stats)
 ## < > Lenguajes más usados
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esme-lopezs&layout=compact&theme=material-palenight)
 ## ıllı GitHub Stats
