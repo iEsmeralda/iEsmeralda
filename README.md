@@ -28,9 +28,9 @@
 
 ## ✴︎ Streak 
 [![GitHub Streak](https://streak-stats.demolab.com?user=iEsmeralda&theme=material-palenight)](https://git.io/streak-stats)
-
+## 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iEsmeralda&layout=compact&theme=material-palenight)
-
+## 
 ![Esme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iEsmeralda&show_icons=true&theme=material-palenight)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iesmeralda&label=Profile%20views&color=7355ad&style=flat" alt="iEsmeralda" /> </p>
