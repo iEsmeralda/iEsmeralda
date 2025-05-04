@@ -1,5 +1,5 @@
 ![Hello](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=999999&color=866ca6&vCenter=true&multiline=true&repeat=false&width=435&lines=Hello+Everyone!+I'm+Esme!+n.n)
-## ★ Tech Stack
+## < > Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
@@ -28,9 +28,9 @@
 
 ## ✴︎ Streak 
 [![GitHub Streak](https://streak-stats.demolab.com?user=iEsmeralda&theme=material-palenight)](https://git.io/streak-stats)
-## < > Lenguajes más usados
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iEsmeralda&layout=compact&theme=material-palenight)
-## ıllı GitHub Stats
+
 ![Esme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iEsmeralda&show_icons=true&theme=material-palenight)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iesmeralda&label=Profile%20views&color=7355ad&style=flat" alt="iEsmeralda" /> </p>
