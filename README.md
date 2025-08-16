@@ -1,6 +1,7 @@
 <p align="center">
 Hello everyone! I'm Esmeralda and I'm studying Data Science at Escuela Superior de Cómputo. <br>
-I'm eager to apply my knowledge through real projects. Feel free to check out my projects! </p>
+I'm eager to apply my knowledge through real projects. <br><br>
+Feel free to check out my projects! </p>
 
 ### Tech Stack
 <p align="center">
