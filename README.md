@@ -37,3 +37,7 @@
 
 </div>
 
+![Badge](https://img.shields.io/badge/Hecho%20con%20amor-💜-purple)
+![Badge](https://img.shields.io/badge/Open%20to%20collab-Yes!-8e44ad)
+
+
