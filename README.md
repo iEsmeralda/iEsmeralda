@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=iEsmeralda&theme=transparent&hide_border=true&locale=es&short_numbers=true&dates=8672B2&ring=382D46&stroke=362E48&sideNums=9C93EB&sideLabels=645AEB&fire=9C93EB&currStreakNum=9C93EB&currStreakLabel=645AEB)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=iEsmeralda&theme=transparent&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&dates=8672B2&ring=382D46&stroke=362E48&sideNums=9C93EB&sideLabels=645AEB&fire=9C93EB&currStreakNum=9C93EB&currStreakLabel=645AEB)](https://git.io/streak-stats)
 
 </div>
 
