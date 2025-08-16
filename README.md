@@ -1,3 +1,5 @@
+# Hello everyone! I'm Esmeralda and I'm studying Data Science at Escuela Superior de Cómputo (ESCOM).
+
 ### Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
