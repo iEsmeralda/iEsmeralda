@@ -1,6 +1,5 @@
 <p align="center">
-Hello everyone! I'm Esmeralda and I'm eager to apply my knowledge through real projects. </p> <br>
-<p align="center">Feel free to check out my projects! </p>
+Hello everyone! I'm Esmeralda and I'm eager to apply my knowledge through real projects. Feel free to check out my projects! </p> <br>
 
 ### Tech Stack
 <p align="center">
