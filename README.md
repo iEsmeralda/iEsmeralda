@@ -1,4 +1,4 @@
-Hello everyone! I'm Esmeralda and I'm studying Data Science at Escuela Superior de Cómputo. 
+Hello everyone! I'm Esmeralda and I'm studying Data Science at Escuela Superior de Cómputo. <br>
 I'm eager to apply my knowledge through real projects. You're welcome to explore my work!
 
 ### Tech Stack
