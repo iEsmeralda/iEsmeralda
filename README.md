@@ -11,11 +11,6 @@
   <img src="https://img.shields.io/badge/Tableau-2d5579?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
-## 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iEsmeralda&layout=compact&theme=material-palenight)
-## 
-![Esme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iEsmeralda&show_icons=true&theme=material-palenight)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iesmeralda&label=Profile%20views&color=7355ad&style=flat" alt="iEsmeralda" /> </p>
 <div align="center">
 
