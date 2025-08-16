@@ -1,4 +1,4 @@
-# Hello everyone! I'm Esmeralda and I'm studying Data Science at Escuela Superior de Cómputo (ESCOM).
+## Hello everyone! I'm Esmeralda and I'm studying Data Science at Escuela Superior de Cómputo (ESCOM).
 
 ### Tech Stack
 <p align="center">
