@@ -36,8 +36,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=iEsmeralda&theme=transparent&hide_border=true&locale=es&short_numbers=true&dates=8672B2&ring=382D46&stroke=362E48&sideNums=9C93EB&sideLabels=645AEB&fire=9C93EB&currStreakNum=9C93EB&currStreakLabel=645AEB)](https://git.io/streak-stats)
 
 </div>
-
-![Badge](https://img.shields.io/badge/Hecho%20con%20amor-💜-purple)
-![Badge](https://img.shields.io/badge/Open%20to%20collab-Yes!-8e44ad)
-
-
