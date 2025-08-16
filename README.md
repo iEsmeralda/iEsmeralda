@@ -26,7 +26,7 @@
 </p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=iEsmeralda&theme=highcontrast&hide_border=true&locale=es&short_numbers=true&hide_current_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=iEsmeralda&theme=transparent&hide_border=true&locale=es&short_numbers=true&dates=8672B2&ring=EB5454&stroke=675889&sideNums=9C93EB&sideLabels=645AEB&hide_current_streak=true)](https://git.io/streak-stats)
 ## 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iEsmeralda&layout=compact&theme=material-palenight)
 ## 
