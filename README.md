@@ -11,7 +11,9 @@
   <img src="https://img.shields.io/badge/Tableau-2d5579?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
-<div>
+<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=iEsmeralda&theme=transparent&hide_border=true&locale=es&short_numbers=true&dates=8672B2&ring=382D46&stroke=362E48&sideNums=9C93EB&sideLabels=645AEB&fire=9C93EB&currStreakNum=9C93EB&currStreakLabel=645AEB)](https://git.io/streak-stats)
 
 </div>
+
