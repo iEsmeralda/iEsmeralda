@@ -26,8 +26,7 @@
 </p>
 
 
-## ✴︎ Streak 
-[![GitHub Streak](https://streak-stats.demolab.com?user=iEsmeralda&theme=material-palenight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=iEsmeralda&theme=highcontrast&hide_border=true&locale=es&short_numbers=true&hide_current_streak=true)](https://git.io/streak-stats)
 ## 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iEsmeralda&layout=compact&theme=material-palenight)
 ## 
