@@ -1,4 +1,3 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Google+Sans+Code&pause=1000&color=DAB8F7&width=435&lines=Hola%2C+soy+Esmeralda+%3A)" alt="Typing SVG" /></a>
 ## < > Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
