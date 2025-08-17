@@ -28,7 +28,7 @@ Hello everyone! I'm Esmeralda and I'm eager to apply my knowledge through real p
         <img src="https://raw.githubusercontent.com/iEsmeralda/iesmeralda.github.io/main/icons/linkedin-title.png" alt="LinkedIn" width="180"/>
       </a>
     </td>
-    <td width="40"></td> <!-- espacio entre logos -->
+    <td width="20"></td>
     <td>
       <a href="https://huggingface.co/iEsmeralda" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/iEsmeralda/iesmeralda.github.io/main/icons/huggingface-title.png" alt="Hugging Face" width="180"/>
