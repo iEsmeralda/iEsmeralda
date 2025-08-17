@@ -15,8 +15,9 @@ Hello everyone! I'm Esmeralda and I'm eager to apply my knowledge through real p
 </p>
 
 <div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=iEsmeralda&theme=transparent&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&dates=8672B2&ring=382D46&stroke=362E48&sideNums=9C93EB&sideLabels=645AEB&fire=9C93EB&currStreakNum=9C93EB&currStreakLabel=645AEB)](https://git.io/streak-stats)
-
 </div>
+
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-Profile-yellow?logo=huggingface&logoColor=white)](https://huggingface.co/iEsmeralda)
+
 
