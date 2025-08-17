@@ -21,9 +21,11 @@ Hello everyone! I'm Esmeralda and I'm eager to apply my knowledge through real p
 </div>
 
 ### Profiles
+<div align="center">
 <a href="https://huggingface.co/iEsmeralda" target="_blank">
-  <img src="https://unpkg.com/@lobehub/icons/dist/HuggingFace.Text.svg" width="180"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" />
 </a>
+</div>
 
 
 
