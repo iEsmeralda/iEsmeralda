@@ -28,7 +28,7 @@ Hello everyone! I'm Esmeralda and I'm eager to apply my knowledge through real p
     <img src="https://raw.githubusercontent.com/iEsmeralda/iesmeralda.github.io/main/icons/linkedin-title.png" alt="HuggingFace" width="180"/>
   </a>
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-6D64B5?style=for-the-badge)](https://iesmeralda.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D64B5?style=for-the-badge)](https://iesmeralda.github.io)
 </div>
 
 
