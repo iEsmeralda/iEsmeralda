@@ -23,7 +23,7 @@ Hello everyone! I'm Esmeralda and I'm eager to apply my knowledge through real p
 ### Profiles
 <div align="center">
 <a href="https://huggingface.co/iEsmeralda" target="_blank" rel="noreferrer">
-            <img src="icons/huggingface-title.png" alt="HuggingFace"/>
+            <img src="[icons/huggingface-](https://github.com/iEsmeralda/iesmeralda.github.io/blob/main/icons/huggingface-title.png)" alt="HuggingFace"/>
           </a>
 </div>
 
