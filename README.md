@@ -21,9 +21,8 @@ Hello everyone! I'm Esmeralda and I'm eager to apply my knowledge through real p
 </div>
 
 ### Profiles
-[![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFF2B0?logo=huggingface&logoColor=FCD214&style=for-the-badge)](https://huggingface.co/iEsmeralda)
 <a href="https://huggingface.co/iEsmeralda" target="_blank">
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" />
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/raw/main/hf-logo-with-title.svg" width="180"/>
 </a>
 
 
