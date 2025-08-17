@@ -26,7 +26,7 @@ Hello everyone! I'm Esmeralda and I'm eager to apply my knowledge through real p
 </a>
   &nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
   <a href="https://huggingface.co/iEsmeralda" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/iEsmeralda/iesmeralda.github.io/main/icons/huggingface-title.png" alt="Hugging Face" width="180"/>
+    <img src="https://raw.githubusercontent.com/iEsmeralda/iesmeralda.github.io/main/icons/huggingface-title.png" alt="Hugging Face" width="180" style="border:none;/>
   </a>
   
 </div>
