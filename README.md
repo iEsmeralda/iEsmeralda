@@ -22,20 +22,20 @@ Hello everyone! I'm Esmeralda and I'm eager to apply my knowledge through real p
 
 ### Profiles
 <table align="center">
-  <tr>
-    <td>
+  <tr style="border: none !important;">
+    <td style="border: none !important;">
       <a href="https://www.linkedin.com/in/esmeralda-lopezs/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/iEsmeralda/iesmeralda.github.io/main/icons/linkedin-title.png" alt="LinkedIn" width="180"/>
+        <img src="https://raw.githubusercontent.com/iEsmeralda/iesmeralda.github.io/main/icons/linkedin-title.png" width="180"/>
       </a>
     </td>
-    <td width="20"></td>
-    <td>
+    <td style="border: none !important; padding-left: 30px;">
       <a href="https://huggingface.co/iEsmeralda" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/iEsmeralda/iesmeralda.github.io/main/icons/huggingface-title.png" alt="Hugging Face" width="180"/>
+        <img src="https://raw.githubusercontent.com/iEsmeralda/iesmeralda.github.io/main/icons/huggingface-title.png" width="180"/>
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
