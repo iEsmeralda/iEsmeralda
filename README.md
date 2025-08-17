@@ -22,7 +22,7 @@ Hello everyone! I'm Esmeralda and I'm eager to apply my knowledge through real p
 
 ### Profiles
 <a href="https://huggingface.co/iEsmeralda" target="_blank">
-  <img src="https://huggingface.co/datasets/huggingface/brand-assets/raw/main/hf-logo-with-title.svg" width="180"/>
+  <img src="https://unpkg.com/@lobehub/icons/dist/HuggingFace.Text.svg" width="180"/>
 </a>
 
 
