@@ -21,21 +21,16 @@ Hello everyone! I'm Esmeralda and I'm eager to apply my knowledge through real p
 </div>
 
 ### Profiles
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/esmeralda-lopezs/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/iEsmeralda/iesmeralda.github.io/main/icons/linkedin-title.png" alt="LinkedIn" width="180"/>
-      </a>
-    </td>
-    <td width="40"></td> <!-- espacio entre logos -->
-    <td>
-      <a href="https://huggingface.co/iEsmeralda" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/iEsmeralda/iesmeralda.github.io/main/icons/huggingface-title.png" alt="Hugging Face" width="180"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://www.linkedin.com/in/esmeralda-lopezs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/iEsmeralda/iesmeralda.github.io/main/icons/linkedin-title.png" alt="LinkedIn" width="180" style="border:none; display:inline-block; margin-right:30px;"/>
+  </a>
+
+  <a href="https://huggingface.co/iEsmeralda" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/iEsmeralda/iesmeralda.github.io/main/icons/huggingface-title.png" alt="Hugging Face" width="180" style="border:none; display:inline-block;"/>
+  </a>
+</div>
+
 
 <p align="center">
   
