@@ -17,7 +17,6 @@ Hello everyone! I'm Esmeralda and I'm eager to apply my knowledge through real p
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=iEsmeralda&theme=transparent&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&dates=8672B2&ring=382D46&stroke=362E48&sideNums=9C93EB&sideLabels=645AEB&fire=9C93EB&currStreakNum=9C93EB&currStreakLabel=645AEB)](https://git.io/streak-stats)
-
 </div>
 
 ### Profiles
@@ -25,6 +24,11 @@ Hello everyone! I'm Esmeralda and I'm eager to apply my knowledge through real p
   <a href="https://huggingface.co/iEsmeralda" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/iEsmeralda/iesmeralda.github.io/main/icons/huggingface-title.png" alt="HuggingFace" width="180"/>
   </a>
+  <a href="https://www.linkedin.com/in/esmeralda-lopezs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/iEsmeralda/iesmeralda.github.io/main/icons/linkedin-title.png" alt="HuggingFace" width="180"/>
+  </a>
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-6D64B5?style=for-the-badge)](https://iesmeralda.github.io)
 </div>
 
 
